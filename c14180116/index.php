@@ -1,4 +1,5 @@
 c14180116-paul
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <body>
@@ -25,3 +26,6 @@ c14180116-paul
     }
     </script>
 </html>
+=======
+tambahkan 2 buah (apel dan jeruk)
+>>>>>>> c14180116-F
